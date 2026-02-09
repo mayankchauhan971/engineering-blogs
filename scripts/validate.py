@@ -28,9 +28,10 @@ TRUSTED_DOMAINS = {
 def validate():
     parser = argparse.ArgumentParser()
     parser.add_argument('--force', action='store_true', help='Force validation regardless of last check date')
+    parser.add_argument('--input', default='data/blogs.json', help='Path to blogs.json')
     args = parser.parse_args()
 
-    json_path = 'data/blogs.json'
+    json_path = args.input
     
     with open(json_path, 'r', encoding='utf-8') as f:
         blogs = json.load(f)
@@ -71,27 +72,35 @@ def validate():
         domain = get_domain(url)
         print(f"Checking {blog.get('name')} - {url}...", end='', flush=True)
         
+        current_exception = None
+        
         try:
             # First attempt: HEAD
             try:
                 response = session.head(url, headers=headers, timeout=10, allow_redirects=True)
-            except requests.RequestException:
+            except requests.RequestException as e:
                 response = None
+                current_exception = e
 
             # Retry on 429 (Too Many Requests) with backoff
             if response and response.status_code == 429:
                 time.sleep(2)
                 try:
                     response = session.get(url, headers=headers, timeout=15)
-                except:
+                except requests.RequestException as e:
+                    current_exception = e
                     pass
 
             # If 405 (Method Not Allowed) or HEAD failed or 403 (Forbidden), try GET
             if response is None or response.status_code in [405, 403] or response.status_code >= 400:
                 try:
                     response = session.get(url, headers=headers, timeout=15)
-                except requests.RequestException:
+                    current_exception = None # Clear error if success
+                except requests.RequestException as e:
+                     current_exception = e
                      pass 
+
+            is_trusted = domain in TRUSTED_DOMAINS or any(d in domain for d in TRUSTED_DOMAINS)
 
             if response and response.status_code == 200:
                 print(" OK")
@@ -103,13 +112,23 @@ def validate():
                 blog['status'] = 'invalid'
                 blog['last_checked_at'] = today.isoformat()
                 updated_count += 1
-            elif (response and response.status_code in [403, 429, 999]) or response is None:
+            elif is_trusted and ((response and response.status_code in [403, 429, 999]) or response is None):
                 # Special handling for known protected domains
-                if domain in TRUSTED_DOMAINS or any(d in domain for d in TRUSTED_DOMAINS):
-                    print(f" Protected ({'Error' if response is None else response.status_code}) - Marking Active (Trusted Domain)")
-                    blog['status'] = 'active'
+                print(f" Protected ({'Error' if response is None else response.status_code}) - Marking Active (Trusted Domain)")
+                blog['status'] = 'active'
+                blog['last_checked_at'] = today.isoformat()
+                updated_count += 1
+            elif response is None:
+                # Network error on untrusted domain
+                err_str = str(current_exception)
+                if "nodename nor servname provided" in err_str or "Name or service not known" in err_str:
+                    print(f" FAILED (DNS Error) - Marking Invalid")
+                    blog['status'] = 'invalid'
                     blog['last_checked_at'] = today.isoformat()
                     updated_count += 1
+                else:
+                    print(f" Warning (Network Error) - Keeping Status")
+                    blog['last_checked_at'] = today.isoformat()
             else:
                 status_code = response.status_code if response else "Error"
                 print(f" Warning ({status_code}) - Keeping Status")
