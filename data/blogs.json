@@ -1,0 +1,4130 @@
+[
+  {
+    "name": ".NET",
+    "url": "https://blogs.msdn.microsoft.com/dotnet/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "0xADADA",
+    "url": "https://0xadada.pub/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "8th Light",
+    "url": "https://8thlight.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Aaron Patterson",
+    "url": "http://tenderlovemaking.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Abu Ashraf Masnun",
+    "url": "http://masnun.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Addy Osmani",
+    "url": "https://addyosmani.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "AdRoll",
+    "url": "http://tech.adroll.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Advanced Web Machinery",
+    "url": "https://advancedweb.hu/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://medium.com/airbnb-engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Alan Storm",
+    "url": "http://alanstorm.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Alex Russell",
+    "url": "https://infrequently.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Algolia",
+    "url": "https://blog.algolia.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Amit Merchant",
+    "url": "https://www.amitmerchant.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Anders Aarvik",
+    "url": "http://aarvik.dk/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Andrew Bancroft",
+    "url": "http://www.andrewcbancroft.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Android",
+    "url": "https://android-developers.blogspot.com/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Antirez",
+    "url": "http://antirez.com/latest/0",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Appnexus",
+    "url": "https://techblog.appnexus.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ariejan de Vroom",
+    "url": "https://ariejan.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ariya Hidayat",
+    "url": "https://ariya.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Arkency",
+    "url": "http://blog.arkency.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Armin Ronacher",
+    "url": "http://lucumr.pocoo.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Artsy",
+    "url": "http://artsy.github.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Asana",
+    "url": "https://blog.asana.com/category/eng/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/blog/atlassian-engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Atomic Object",
+    "url": "https://spin.atomicobject.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Auth0",
+    "url": "https://auth0.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Avenue Code",
+    "url": "http://blog.avenuecode.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "AWS",
+    "url": "https://aws.amazon.com/blogs/aws/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Axel Rauschmayer",
+    "url": "http://www.2ality.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Babbel",
+    "url": "https://bytes.babbel.com/en/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bad Concurrency",
+    "url": "http://bad-concurrency.blogspot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Badoo",
+    "url": "https://techblog.badoo.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamptech.wordpress.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bartlomiej Filipek",
+    "url": "http://www.bfilipek.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Base Lab",
+    "url": "https://lab.getbase.com/category/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bazaarvoice",
+    "url": "https://blog.developer.bazaarvoice.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "BBC",
+    "url": "https://medium.com/bbc-design-engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Benchling",
+    "url": "https://benchling.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bigcommerce",
+    "url": "http://www.bigeng.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bill the Lizard",
+    "url": "http://www.billthelizard.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bjørn Johansen",
+    "url": "https://bjornjohansen.no/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Blake Erickson",
+    "url": "https://blog.blakeerickson.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Blender",
+    "url": "https://code.blender.org/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Blundell's Android Tutorials",
+    "url": "http://blog.blundellapps.co.uk",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bohops",
+    "url": "https://bohops.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Booking.com",
+    "url": "https://blog.booking.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bootstrap.com",
+    "url": "https://blog.getbootstrap.com/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Brandwatch",
+    "url": "http://engineering.brandwatch.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Brendan Eich",
+    "url": "https://brendaneich.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Brendan Gregg",
+    "url": "http://www.brendangregg.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Brujo Benavides",
+    "url": "https://medium.com/@elbrujohalcon",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bryan Cantrill",
+    "url": "http://dtrace.org/blogs/bmc/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Canva",
+    "url": "https://engineering.canva.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Capgemini",
+    "url": "https://capgemini.github.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Carlos Becker",
+    "url": "https://carlosbecker.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Cerner",
+    "url": "http://engineering.cerner.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Chen Hui Jing",
+    "url": "https://www.chenhuijing.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Chien Tran",
+    "url": "http://thelazylog.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Chris Wellons",
+    "url": "http://nullprogram.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Clever",
+    "url": "https://engineering.clever.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Cloudera",
+    "url": "https://blog.cloudera.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://blog.cloudflare.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Code with style!",
+    "url": "https://codewithstyle.info/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Codelitt",
+    "url": "https://www.codelitt.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "CodeName One",
+    "url": "http://www.codenameone.com/blog.html",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Codeship",
+    "url": "https://blog.codeship.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Codrops",
+    "url": "https://tympanus.net/codrops/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Commercetools",
+    "url": "https://techblog.commercetools.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Confluent",
+    "url": "https://www.confluent.io/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Credit Karma",
+    "url": "https://engineering.creditkarma.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Criteo",
+    "url": "https://medium.com/criteo-labs",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Crowdfire",
+    "url": "https://crowdfire.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Crystal",
+    "url": "https://crystal-lang.org/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "CSC - IT Center For Science - Cloud Team",
+    "url": "https://cloud.blog.csc.fi/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Curalate",
+    "url": "http://engineering.curalate.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Daily JS",
+    "url": "https://medium.com/dailyjs",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Daily Tech Video",
+    "url": "http://dailytechvideo.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dan Luu",
+    "url": "https://danluu.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Daniel Doubrovkine (dB.)",
+    "url": "http://code.dblock.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Daniel Schmidt",
+    "url": "https://medium.com/@dschmidt1992",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Databricks",
+    "url": "https://www.databricks.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dave Beazley",
+    "url": "http://www.dabeaz.com/blog.html",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dave Cheney",
+    "url": "https://dave.cheney.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "David Walsh",
+    "url": "https://davidwalsh.name/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dean Hume",
+    "url": "http://deanhume.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Deezer",
+    "url": "https://deezer.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Deliveroo",
+    "url": "https://deliveroo.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dennis Felsing",
+    "url": "https://hookrace.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dereuromark",
+    "url": "http://www.dereuromark.de/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Discord",
+    "url": "https://blog.discordapp.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Docker",
+    "url": "https://blog.docker.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Domenico Luciani",
+    "url": "https://domenicoluciani.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "DoorDash",
+    "url": "https://doordash.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dot Dev (.dev)",
+    "url": "https://dotdev.co",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dragan Djuric",
+    "url": "http://dragan.rocks",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dragan Gaic",
+    "url": "http://www.gajotres.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Drew DeVault",
+    "url": "https://drewdevault.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Drivy",
+    "url": "https://drivy.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://dropbox.tech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ebay",
+    "url": "https://www.ebayinc.com/stories/blogs/tech/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Edan Kwan",
+    "url": "http://blog.edankwan.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Eddie Smith",
+    "url": "http://www.practicallyefficient.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Edgar Aroutiounian",
+    "url": "https://hyegar.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Edward Faulkner",
+    "url": "https://eaf4.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "eFounders",
+    "url": "https://medium.com/unexpected-token",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Elegant Code",
+    "url": "http://elegantcode.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Eli Bendersky",
+    "url": "http://eli.thegreenplace.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Engine Yard",
+    "url": "https://blog.engineyard.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Entelo",
+    "url": "https://sourcecode.entelo.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Envato",
+    "url": "https://webuild.envato.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Envoy",
+    "url": "https://envoy.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Eric Elliot",
+    "url": "https://medium.com/javascript-scene/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Eric Lippert",
+    "url": "https://ericlippert.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Erik Runyon",
+    "url": "https://erikrunyon.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Erlang Solutions",
+    "url": "https://www.erlang-solutions.com/blog.html",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Evan Hahn",
+    "url": "http://evanhahn.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Evan Jones",
+    "url": "http://www.evanjones.ca/chronological.html",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Evan Miller",
+    "url": "http://www.evanmiller.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Eventbrite",
+    "url": "https://www.eventbrite.com/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Evil Martians",
+    "url": "https://evilmartians.com/chronicles/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Expedia",
+    "url": "https://medium.com/expedia-group-tech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://code.facebook.com/posts/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Facebook AI Research",
+    "url": "https://engineering.fb.com/category/ai-research/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Federico Cargnelutti",
+    "url": "https://blog.fedecarg.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Federico Tomassetti",
+    "url": "https://tomassetti.me/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Feedzai",
+    "url": "https://medium.com/feedzaitech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Filippo Valsorda",
+    "url": "https://blog.filippo.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Findmypast",
+    "url": "http://tech.findmypast.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Finn.no",
+    "url": "http://tech.finn.no/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Flickr",
+    "url": "http://code.flickr.net/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Freek Van der Herten",
+    "url": "https://murze.be/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Freeletics",
+    "url": "https://freeletics.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Fynd",
+    "url": "http://gofynd.io/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Galois",
+    "url": "https://galois.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GameChanger",
+    "url": "http://tech.gc.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GIPHY",
+    "url": "https://engineering.giphy.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.blog/category/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GitHub Old",
+    "url": "https://github.com/blog/category/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Gleb Bahmutov",
+    "url": "https://glebbahmutov.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Go",
+    "url": "https://blog.golang.org/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GoCardless",
+    "url": "https://gocardless.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GoDaddy",
+    "url": "https://godaddy.github.io/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "GoSquared",
+    "url": "https://engineering.gosquared.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Grab",
+    "url": "http://engineering.grab.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Graham King",
+    "url": "https://www.darkcoding.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Graphcool",
+    "url": "https://blog.graph.cool/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Grofers",
+    "url": "https://lambda.grofers.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Groupon",
+    "url": "https://engineering.groupon.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Grzegorz Gajos",
+    "url": "http://ggajos.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Guardian",
+    "url": "https://www.theguardian.com/info/developer-blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Guido van Rossum",
+    "url": "http://neopythonic.blogspot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Guilherme Rodrigues",
+    "url": "https://firstdoit.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Gusto",
+    "url": "http://engineering.gusto.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "HackerEarth",
+    "url": "http://engineering.hackerearth.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Haptik",
+    "url": "https://haptik.ai/tech/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Harry's",
+    "url": "http://engineering.harrys.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://engineering.hashnode.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hashrocket",
+    "url": "https://hashrocket.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hayden James",
+    "url": "https://haydenjames.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Helpshift",
+    "url": "https://medium.com/helpshift-engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Henrik Lau Eriksson",
+    "url": "https://conductofcode.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Henrik Warne",
+    "url": "https://henrikwarne.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://blog.heroku.com/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "High Scalability",
+    "url": "http://highscalability.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "HomeAway",
+    "url": "https://tech.homeaway.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Honeybadger",
+    "url": "http://blog.honeybadger.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hootsuite",
+    "url": "http://code.hootsuite.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hostinger",
+    "url": "https://www.hostinger.com/blog/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Housing.com",
+    "url": "https://medium.com/engineering-housing",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "HubSpot",
+    "url": "http://product.hubspot.com/blog/topic/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Huon Wilson",
+    "url": "http://huonw.github.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hypriot",
+    "url": "http://blog.hypriot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ian Hummel",
+    "url": "https://themodernlife.github.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "IBM developerWorks",
+    "url": "https://developer.ibm.com/dwblog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Idontgetoutmuch's Weblog",
+    "url": "https://idontgetoutmuch.wordpress.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ievgen Kuzminov",
+    "url": "http://stdout.in/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ilija Eftimov",
+    "url": "http://ieftimov.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ilya Grigorik",
+    "url": "https://www.igvita.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Imgur",
+    "url": "https://blog.imgur.com/category/eng/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "IMVU",
+    "url": "https://engineering.imvu.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Indeed",
+    "url": "http://engineering.indeedblog.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Instacart",
+    "url": "https://tech.instacart.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://engineering.instagram.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "IPFS",
+    "url": "https://ipfs.io/blog/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Itamar Turner-Trauring",
+    "url": "https://codewithoutrules.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jacopo Tarantino",
+    "url": "https://jack.ofspades.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jake Trent",
+    "url": "https://jaketrent.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jake Wharton",
+    "url": "http://jakewharton.com/blog",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jake Yesbeck",
+    "url": "http://jakeyesbeck.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "James Hague",
+    "url": "http://prog21.dadgum.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "James Long",
+    "url": "http://jlongster.com/archive",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jamis Buck",
+    "url": "http://weblog.jamisbuck.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jan Lelis",
+    "url": "https://idiosyncratic-ruby.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jane Street",
+    "url": "https://blogs.janestreet.com/category/ocaml/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jay Fields",
+    "url": "http://blog.jayfields.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jeff Atwood",
+    "url": "https://blog.codinghorror.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jeff Preshing",
+    "url": "http://preshing.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jeremy Kun",
+    "url": "https://jeremykun.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jerry Gamblin",
+    "url": "https://jerrygamblin.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jesal Gadhia",
+    "url": "https://jes.al/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jessie Frazelle",
+    "url": "https://blog.jessfraz.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jobandtalent",
+    "url": "https://jobandtalent.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "JobTeaser",
+    "url": "https://medium.com/jobteaser-dev-team/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Joe Armstrong",
+    "url": "https://joearms.github.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Joe Nelson",
+    "url": "https://begriffs.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Joel Spolsky",
+    "url": "https://www.joelonsoftware.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Johannes Brodwall",
+    "url": "http://johannesbrodwall.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "John Resig",
+    "url": "https://johnresig.com/category/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "John Wittenauer",
+    "url": "http://www.johnwittenauer.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jon Skeet",
+    "url": "https://codeblog.jonskeet.uk/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jonathan Dekhtiar",
+    "url": "http://www.born2data.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jonathan Snook",
+    "url": "https://snook.ca/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "jOOQ",
+    "url": "https://blog.jooq.org/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Josh Haberman",
+    "url": "http://blog.reverberate.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Josh Sherman",
+    "url": "https://joshtronic.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Juan Treminio",
+    "url": "https://jtreminio.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Julia Evans",
+    "url": "https://jvns.ca/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Junior Grossi",
+    "url": "https://blog.jgrossi.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Just Eat",
+    "url": "https://tech.just-eat.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Justin Weiss",
+    "url": "https://www.justinweiss.com/articles/archives/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "K. Harrison",
+    "url": "https://useyourloaf.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kai Hendry",
+    "url": "https://hendry.iki.fi/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kevin Burke",
+    "url": "https://kev.inburke.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "http://engineering.khanacademy.org",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kinvolk",
+    "url": "https://kinvolk.io/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kirill Shevchenko",
+    "url": "https://medium.com/@kirill_shevch",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kogan.com",
+    "url": "https://devblog.kogan.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kolosek",
+    "url": "https://kolosek.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kotlin",
+    "url": "https://blog.jetbrains.com/kotlin/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Kyle Kingsbury",
+    "url": "https://aphyr.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Lambda the Ultimate",
+    "url": "http://lambda-the-ultimate.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Laravel",
+    "url": "https://laravel-news.com/blog/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Larry Land",
+    "url": "https://lg.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Lazarus Lazaridis",
+    "url": "https://iridakos.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Lea Verou",
+    "url": "http://lea.verou.me/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Lerner Consulting Blog",
+    "url": "http://blog.lerner.co.il/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Life Plus Linux",
+    "url": "http://lifepluslinux.blogspot.in/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "LINE",
+    "url": "https://engineering.linecorp.com/en/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://engineering.linkedin.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "LiveOverflow",
+    "url": "https://liveoverflow.com/blog/index.html",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "LiveRamp",
+    "url": "https://liveramp.com/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Localytics",
+    "url": "http://eng.localytics.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Luciano Mammino",
+    "url": "https://loige.co/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Lyft",
+    "url": "https://eng.lyft.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Made Tech",
+    "url": "https://www.madetech.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "MapTiler",
+    "url": "https://www.maptiler.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Marc Plano-Lesay",
+    "url": "https://enoent.fr",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Marcelo Rinesi",
+    "url": "https://blog.rinesi.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Marco Pivetta",
+    "url": "http://ocramius.github.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Marek Majkowski",
+    "url": "https://idea.popcount.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mark Seaborn",
+    "url": "http://lackingrhoticity.blogspot.de/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Martin Fowler",
+    "url": "https://martinfowler.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mary Rose Cook",
+    "url": "https://maryrosecook.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Matt Aimonetti",
+    "url": "https://matt.aimonetti.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Matt Cutts",
+    "url": "https://www.mattcutts.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Matt Might",
+    "url": "http://matt.might.net/articles/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Matt Warren",
+    "url": "http://mattwarren.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Matthew Green",
+    "url": "https://blog.cryptographyengineering.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Medallia",
+    "url": "http://engineering.medallia.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/medium-eng",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mesosphere",
+    "url": "https://mesosphere.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Michael Crump",
+    "url": "https://michaelcrump.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Michael Herman",
+    "url": "http://mherman.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Microsoft Edge",
+    "url": "https://blogs.windows.com/msedgedev/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Microsoft Python Engineering",
+    "url": "https://blogs.msdn.microsoft.com/pythonengineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Miguel Quinones",
+    "url": "https://www.miqu.me/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mike Ash",
+    "url": "https://www.mikeash.com/pyblog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mike Fogus",
+    "url": "http://blog.fogus.me/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Miro Cupak",
+    "url": "https://mirocupak.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Monica Dinculescu",
+    "url": "https://meowni.ca/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Monstermuffin",
+    "url": "https://blog.monstermuffin.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Moove-it",
+    "url": "https://blog.moove-it.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mozilla Automation Team",
+    "url": "https://planet.mozilla.org/ateam/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mozilla Hacks",
+    "url": "https://hacks.mozilla.org/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mozilla Release Engineering",
+    "url": "https://planet.mozilla.org/releng/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mykhailo Kozik",
+    "url": "http://mishadoff.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nate Berkopec",
+    "url": "http://www.nateberkopec.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nelson Elhage",
+    "url": "https://blog.nelhage.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://netflixtechblog.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "New York Times",
+    "url": "https://open.blogs.nytimes.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nextdoor",
+    "url": "https://engblog.nextdoor.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nic Raboy",
+    "url": "https://www.thepolyglotdeveloper.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nick Craver",
+    "url": "https://nickcraver.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nick Desaulniers",
+    "url": "https://nickdesaulniers.github.io/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nicolai Parlog (CodeFX)",
+    "url": "http://codefx.org",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nicolas Liochon",
+    "url": "http://blog.thislongrun.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nikola Brežnjak",
+    "url": "http://www.nikola-breznjak.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nordic APIs",
+    "url": "https://nordicapis.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Novoda",
+    "url": "https://www.novoda.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "NPR Apps",
+    "url": "http://blog.apps.npr.org/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "NSHipster",
+    "url": "http://nshipster.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nvidia",
+    "url": "https://blogs.nvidia.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "OCTO Technology",
+    "url": "https://blog.octo.com/en/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ofer Zelig",
+    "url": "https://fullstack.info",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Okta",
+    "url": "https://developer.okta.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ole Begemann",
+    "url": "https://oleb.net/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "OLX",
+    "url": "https://tech.olx.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "OmniTI",
+    "url": "https://omniti.com/seeds/stop-collaborate-and-listen-notify",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Oona Räisänen",
+    "url": "http://www.windytan.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "OpenDNS",
+    "url": "https://engineering.opendns.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Oursky",
+    "url": "https://code.oursky.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Palantir",
+    "url": "https://blog.palantir.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Pamela Fox",
+    "url": "http://blog.pamelafox.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Panorama Education",
+    "url": "http://engineering.panoramaed.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Paperless Post",
+    "url": "https://www.paperlesspost.com/blog/teams/tech/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Pat Shaughnessy",
+    "url": "http://patshaughnessy.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Paul Irish",
+    "url": "https://www.paulirish.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Paul Lewis",
+    "url": "https://aerotwist.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Paweł Chudzik",
+    "url": "https://blog.pchudzik.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Paypal",
+    "url": "https://medium.com/paypal-tech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Peter Norvig",
+    "url": "http://norvig.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Peter Steinberger",
+    "url": "http://petersteinberger.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Peteris Krumins",
+    "url": "http://www.catonmat.net/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Petr Mitrichev",
+    "url": "http://petr-mitrichev.blogspot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Philip Walton",
+    "url": "https://philipwalton.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Philipp Oppermann",
+    "url": "https://os.phil-opp.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "PicCollage",
+    "url": "https://tech.pic-collage.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://medium.com/pinterest-engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Piotr Pasich",
+    "url": "http://piotrpasich.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Pluralsight",
+    "url": "https://www.pluralsight.com/guides",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Pony Foo",
+    "url": "https://ponyfoo.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Postman",
+    "url": "https://medium.com/better-practices",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Postmark",
+    "url": "https://postmarkapp.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Prezi",
+    "url": "https://medium.com/prezi-engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Prolific Interactive",
+    "url": "http://blog.prolificinteractive.com/category/development/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "PubNub:",
+    "url": "https://www.pubnub.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "PullReview",
+    "url": "http://blog.8thcolor.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Quora",
+    "url": "https://engineering.quora.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Rachel Kroll",
+    "url": "https://rachelbythebay.com/w/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Radek Pazdera",
+    "url": "http://radek.io",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Radim Řehůřek",
+    "url": "https://radimrehurek.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ramon Fried",
+    "url": "https://nativeguru.wordpress.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ray Wenderlich",
+    "url": "https://www.raywenderlich.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Raymond Chen",
+    "url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Raymond Hettinger",
+    "url": "https://rhettinger.wordpress.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "REA Group",
+    "url": "https://www.rea-group.com/category/tech/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "React Native",
+    "url": "http://facebook.github.io/react-native/blog/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "ReactJS News",
+    "url": "https://reactjsnews.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Real Python",
+    "url": "https://realpython.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Red",
+    "url": "http://www.red-lang.org",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Reginald Braithwaite",
+    "url": "http://raganwald.com/#essays",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Regular Geek",
+    "url": "http://regulargeek.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Remind",
+    "url": "http://engineering.remind.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "RetailMeNot",
+    "url": "https://medium.com/retailmenot-engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Riot Games",
+    "url": "https://engineering.riotgames.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "RisingStack",
+    "url": "https://blog.risingstack.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Rob Allen",
+    "url": "https://akrabat.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Robert C. Martin",
+    "url": "http://blog.cleancoder.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Robert Elder Software",
+    "url": "http://blog.robertelder.org/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Robin Ward",
+    "url": "https://eviltrout.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Robin Wilson",
+    "url": "http://blog.rtwilson.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "RocksDB",
+    "url": "http://rocksdb.org/blog",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "RoseHosting",
+    "url": "https://www.rosehosting.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ruslan Spivak",
+    "url": "https://ruslanspivak.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Rust",
+    "url": "https://blog.rust-lang.org/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Sam Saffron",
+    "url": "https://samsaffron.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Schakko",
+    "url": "https://schakko.de",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Schibsted Tech Polska",
+    "url": "http://www.schibsted.pl/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Scott Hanselman",
+    "url": "http://www.hanselman.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Scott Johnson",
+    "url": "http://www.fuzzyblog.io/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Segment",
+    "url": "https://segment.com/blog/categories/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Sensible",
+    "url": "http://blog.sensible.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Serverless",
+    "url": "https://serverless.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Sharethis",
+    "url": "https://www.sharethis.com/category/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://shopify.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Simple",
+    "url": "https://www.simple.com/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "SitePoint",
+    "url": "https://sitepoint.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Sketch",
+    "url": "https://blog.sketchapp.com/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Sky Betting & Gaming",
+    "url": "http://engineering.skybettingandgaming.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Skyscanner",
+    "url": "http://codevoyagers.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "SlideShare",
+    "url": "https://engineering.linkedin.com/blog/topic/slideshare",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Small Improvements",
+    "url": "https://tech.small-improvements.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Soshace",
+    "url": "https://blog.soshace.com/en/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Soundcloud",
+    "url": "https://developers.soundcloud.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "SourceClear",
+    "url": "https://blog.sourceclear.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Speedledger",
+    "url": "http://engineering.speedledger.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://engineering.atspotify.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Sqreen",
+    "url": "https://blog.sqreen.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Square",
+    "url": "https://corner.squareup.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Squarespace",
+    "url": "https://engineering.squarespace.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Srinivas Tamada",
+    "url": "https://www.9lessons.info/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stack Abuse",
+    "url": "http://www.stackabuse.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.blog/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stackshare",
+    "url": "https://stackshare.io/feed",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stanko Tadić",
+    "url": "https://muffinman.io",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stefan Parker",
+    "url": "http://codebeforethehorse.tumblr.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stephen Colebourne",
+    "url": "http://blog.joda.org/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Steve Bellovin",
+    "url": "https://www.cs.columbia.edu/~smb/blog/control/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Steve Yegge",
+    "url": "https://steve-yegge.blogspot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stitch Fix",
+    "url": "http://multithreaded.stitchfix.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Strava",
+    "url": "https://medium.com/strava-engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/blog/engineering",
+    "category": "company",
+    "status": "inactive",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "SurveyMonkey",
+    "url": "https://engineering.surveymonkey.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Swift",
+    "url": "https://developer.apple.com/swift/blog/",
+    "category": "product",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://bytes.swiggy.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Swizec Teller",
+    "url": "https://swizec.com/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "T.J. Maher",
+    "url": "http://adventuresinautomation.blogspot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Takipi",
+    "url": "http://blog.takipi.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tania Rascia",
+    "url": "https://tania.dev/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Target",
+    "url": "https://target.github.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Teamwork",
+    "url": "https://engineroom.teamwork.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "The Coded Self",
+    "url": "http://www.thecodedself.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "The Daily WTF",
+    "url": "http://thedailywtf.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "theScore",
+    "url": "http://techblog.thescore.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Thomas Young",
+    "url": "http://upcoder.com",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Thoughtbot",
+    "url": "https://robots.thoughtbot.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Thumbtack",
+    "url": "https://www.thumbtack.com/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tikhon Jelvis",
+    "url": "http://jelv.is/blog/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Timescale",
+    "url": "https://blog.timescale.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tinder",
+    "url": "https://tech.gotinder.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Toptal",
+    "url": "https://www.toptal.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Transferwise",
+    "url": "http://tech.transferwise.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Trivago",
+    "url": "http://tech.trivago.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "TrueCar",
+    "url": "https://www.drivenbycode.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://engineering.tumblr.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://www.twilio.com/blog/",
+    "category": "company",
+    "status": "inactive",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Una Kravets",
+    "url": "https://una.im/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Undocumented Matlab",
+    "url": "http://undocumentedmatlab.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Universe",
+    "url": "https://engineering.universe.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "UpGrad",
+    "url": "https://engineering.upgrad.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Vanilla Java",
+    "url": "http://vanillajava.blogspot.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Vena Solutions",
+    "url": "https://engineering.vena.io/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "VersionEye",
+    "url": "https://blog.versioneye.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Viget",
+    "url": "https://www.viget.com/articles/category/code#articles",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Vinted",
+    "url": "http://engineering.vinted.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Vlad Mihalcea",
+    "url": "https://vladmihalcea.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "VNGRS",
+    "url": "http://blog.vngrs.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "VTS",
+    "url": "https://buildingvts.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Wayfair",
+    "url": "http://engineering.wayfair.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Wealthfront",
+    "url": "http://eng.wealthfront.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Wemake.services",
+    "url": "https://medium.com/wemake-services",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Wilfred Hughes",
+    "url": "http://www.wilfred.me.uk/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "William Kennedy",
+    "url": "https://www.goinggo.net/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Wingify",
+    "url": "http://engineering.wingify.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Wojtek Gawroński",
+    "url": "http://www.afronski.pl/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "WyeWorks",
+    "url": "https://wyeworks.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "XING",
+    "url": "https://tech.xing.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Yahoo",
+    "url": "https://yahooeng.tumblr.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Yammer",
+    "url": "https://medium.com/yammer-engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Yegor Bugayenko",
+    "url": "http://www.yegor256.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Yifan Lu",
+    "url": "http://yifan.lu/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zach Holman",
+    "url": "https://zachholman.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zalando",
+    "url": "https://tech.zalando.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://medium.com/zendesk-engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zendesk(old)",
+    "url": "https://developer.zendesk.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zolmeister",
+    "url": "https://zolmeister.com/",
+    "category": "individual",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Apple",
+    "url": "https://machinelearning.apple.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Argonaut",
+    "url": "https://www.argonaut.dev/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Askomputer",
+    "url": "https://blog.askomputer.pl",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Auto1",
+    "url": "https://auto1.tech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Bittorrent",
+    "url": "https://www.bittorrent.com/blog/category/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Careercutler",
+    "url": "https://careercutler.substack.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Cloudbees",
+    "url": "https://www.cloudbees.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Datadoghq",
+    "url": "https://www.datadoghq.com/blog/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Deferpanic",
+    "url": "https://deferpanic.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "DigitalOcean",
+    "url": "https://www.digitalocean.com/blog/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Docplanner",
+    "url": "https://docplanner.tech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Docutain",
+    "url": "https://sdk.docutain.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://blog.duolingo.com/hub/engineering/",
+    "category": "company",
+    "status": "inactive",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ebayinc",
+    "url": "https://tech.ebayinc.com/rss",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "RedBubble",
+    "url": "https://medium.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/blog/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Freshrss",
+    "url": "https://freshrss.org",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Gojek",
+    "url": "https://blog.gojek.io",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Google",
+    "url": "https://developers.googleblog.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com/blog/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Hanamimastery",
+    "url": "https://hanamimastery.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "HashiCorp",
+    "url": "https://www.hashicorp.com/blog",
+    "category": "company",
+    "status": "inactive",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Intentmedia",
+    "url": "http://intentmedia.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jasonmccreary",
+    "url": "https://jasonmccreary.me",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Jeremyevans",
+    "url": "https://roda.jeremyevans.net",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Ktheory",
+    "url": "https://ktheory.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Livechatinc",
+    "url": "https://developers.livechatinc.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Lob",
+    "url": "https://www.lob.com/category/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Loginradius",
+    "url": "https://www.loginradius.com/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Loyalty",
+    "url": "https://loyalty.dev",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://developer.mailchimp.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://devs.mailchimp.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mandrill",
+    "url": "http://blog.mandrill.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Memsql",
+    "url": "https://www.memsql.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Meta (Facebook)",
+    "url": "https://engineering.fb.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://devblogs.microsoft.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Mixmax",
+    "url": "https://mixmax.com/blog/tag/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Nanovms",
+    "url": "https://nanovms.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/news/",
+    "category": "company",
+    "status": "inactive",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Periscopedata",
+    "url": "https://www.periscopedata.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Primevideotech",
+    "url": "https://www.primevideotech.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Redditblog",
+    "url": "https://redditblog.com/topic/technology",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Redditblog",
+    "url": "https://redditblog.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Remedygames",
+    "url": "https://www.remedygames.com/northlight",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Rubick",
+    "url": "https://www.rubick.com/posts",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Rubyweekly",
+    "url": "https://rubyweekly.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Runtastic",
+    "url": "https://www.runtastic.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://engineering.salesforce.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://developer.salesforce.com/blogs",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Scene-Si",
+    "url": "https://scene-si.org",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Snap (Snapchat)",
+    "url": "https://eng.snap.com/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Snyk",
+    "url": "https://snyk.io",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Stridenyc",
+    "url": "https://www.stridenyc.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Substack",
+    "url": "https://careercutler.substack.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Substack",
+    "url": "https://devweekly.substack.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tes",
+    "url": "https://engineering.tes.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tianpan",
+    "url": "https://TianPan.co",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tigerbeetle",
+    "url": "https://tigerbeetle.com/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Tomassetti",
+    "url": "https://tomassetti.me/wp-json/wp/v2/pages/6218",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Twitter/X",
+    "url": "https://blog.x.com/engineering/en_us",
+    "category": "company",
+    "status": "inactive",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Uber",
+    "url": "https://www.uber.com/blog/engineering/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Useanvil",
+    "url": "https://www.useanvil.com/blog/engineering",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Vladimirj",
+    "url": "https://vladimirj.dev/blog",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Worldline",
+    "url": "https://blog.worldline.tech/",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Xugj520",
+    "url": "https://www.xugj520.cn/en",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zerodha",
+    "url": "https://zerodha.tech",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
+    "name": "Zomato",
+    "url": "https://blog.zomato.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  }
+]

@@ -1,0 +1,59 @@
+name: Maintenance
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Process New Issues
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/process_issues.py
+
+      - name: Validate Blogs
+        run: |
+          python scripts/validate.py
+
+      - name: Generate README
+        run: |
+          python scripts/generate_readme.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: daily blog maintenance"
+          title: "Daily Blog Maintenance"
+          body: |
+            This PR updates the engineering blogs list.
+            - Validated existing links
+            - Regenerated README.md
+          branch: maintenance/periodic-update
+          base: main
+          delete-branch: true
+          add-paths: |
+            data/blogs.json
+            README.md
+            ARCHIVE.md

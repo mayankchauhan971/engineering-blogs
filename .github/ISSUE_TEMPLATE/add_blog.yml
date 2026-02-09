@@ -1,0 +1,22 @@
+name: Add Engineering Blog
+description: Suggest a new engineering blog to add to the list.
+title: "[New Blog]: <Blog Name>"
+labels: ["add-blog"]
+body:
+  - type: input
+    id: blog_name
+    attributes:
+      label: Blog Name
+  - type: input
+    id: blog_url
+    attributes:
+      label: Blog URL
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Company
+        - Individual
+        - Product/Technology
+
