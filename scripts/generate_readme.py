@@ -108,10 +108,36 @@ def generate_readme():
     lines.append("- **Add a Blog**: Open an issue using the **Add Engineering Blog** template. Our daily workflow will automatically validate and add it!") 
     lines.append("- **Fix a Link**: Open a PR or an issue describing the fix.")
 
+    # Function to smart update file
+    def smart_update(path, new_lines, date_line_index):
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                old_content = f.read()
+            old_lines = old_content.split('\n')
+            
+            # Check if content matches (ignoring the date line)
+            match = True
+            if len(old_lines) != len(new_lines):
+                match = False
+            else:
+                for i in range(len(new_lines)):
+                    if i == date_line_index: continue
+                    if new_lines[i] != old_lines[i]:
+                        match = False
+                        break
+            
+            if match:
+                print(f"No changes detected in {path}, keeping existing timestamp.")
+                # Use old line for date to preserve it
+                if len(old_lines) > date_line_index:
+                    new_lines[date_line_index] = old_lines[date_line_index]
+        
+        with open(path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(new_lines))
+        print(f"Generated {path}")
+
     # Write README.md
-    with open(readme_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(lines))
-    print(f"Generated {readme_path}")
+    smart_update(readme_path, lines, 2)
 
     # Write ARCHIVE.md (Always generate to ensure file exists for CI)
     alink = []
@@ -125,9 +151,8 @@ def generate_readme():
     else:
         alink.append("No archived blogs currently.")
     
-    with open(archive_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(alink))
-    print(f"Generated {archive_path}")
+    # Write ARCHIVE.md - date is at index 1
+    smart_update(archive_path, alink, 1)
 
 if __name__ == "__main__":
     generate_readme()

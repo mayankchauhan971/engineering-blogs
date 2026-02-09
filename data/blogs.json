@@ -1,5 +1,13 @@
 [
   {
+    "name": "Test which should be deleted",
+    "url": "https://asdfaaskdfnaskfdjsdfsadf.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
     "name": ".NET",
     "url": "https://blogs.msdn.microsoft.com/dotnet/",
     "category": "product",
