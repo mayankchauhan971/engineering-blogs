@@ -51,7 +51,7 @@ jobs:
             - Validated existing links
             - Regenerated README.md
           branch: maintenance/periodic-update
-          base: main
+          base: master
           delete-branch: true
           add-paths: |
             data/blogs.json
