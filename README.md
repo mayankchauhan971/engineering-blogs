@@ -256,7 +256,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Target](https://target.github.io/)
 * [Teamwork](https://engineroom.teamwork.com/)
 * [Tes](https://engineering.tes.com)
-* [Test which should be deleted](https://asdfaaskdfnaskfdjsdfsadf.substack.com)
+* [Test which should be deleted](https://asdfaaskdfnaskfdjsdfsadf.com)
 * [theScore](http://techblog.thescore.com/)
 * [Thoughtbot](https://robots.thoughtbot.com/)
 * [Thumbtack](https://www.thumbtack.com/engineering/)
