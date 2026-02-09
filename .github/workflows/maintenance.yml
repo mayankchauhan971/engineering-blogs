@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,7 +42,24 @@ jobs:
         run: |
           python scripts/generate_readme.py
 
+      - name: Check for Data Changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain data/blogs.json) ]]; then
+            echo "data_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "data_changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit Timestamp Update (No Data Changes)
+        if: steps.check_changes.outputs.data_changed == 'false'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update timestamp [skip ci]"
+          file_pattern: "README.md ARCHIVE.md"
+
       - name: Create Pull Request
+        if: steps.check_changes.outputs.data_changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
