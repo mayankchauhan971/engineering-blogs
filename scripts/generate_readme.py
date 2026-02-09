@@ -113,18 +113,21 @@ def generate_readme():
         f.write('\n'.join(lines))
     print(f"Generated {readme_path}")
 
-    # Write ARCHIVE.md if needed
+    # Write ARCHIVE.md (Always generate to ensure file exists for CI)
+    alink = []
+    alink.append("# Archived Engineering Blogs")
+    alink.append(f"> These blogs were detected as invalid or inactive. Last updated: {today}")
+    alink.append("")
+    
     if archived_blogs:
-        alink = []
-        alink.append("# Archived Engineering Blogs")
-        alink.append(f"> These blogs were detected as invalid or inactive. Last updated: {today}")
-        alink.append("")
         for blog in archived_blogs:
-             alink.append(f"* {escape_md(blog['name'])} - {blog['url']} (Status: {blog.get('status')})")
-        
-        with open(archive_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(alink))
-        print(f"Generated {archive_path}")
+                alink.append(f"* {escape_md(blog['name'])} - {blog['url']} (Status: {blog.get('status')})")
+    else:
+        alink.append("No archived blogs currently.")
+    
+    with open(archive_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(alink))
+    print(f"Generated {archive_path}")
 
 if __name__ == "__main__":
     generate_readme()
