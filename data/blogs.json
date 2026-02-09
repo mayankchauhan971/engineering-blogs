@@ -4024,6 +4024,14 @@
     "last_checked_at": "2026-02-09"
   },
   {
+    "name": "Test which should be deleted",
+    "url": "https://asdfaaskdfnaskfdjsdfsadf.substack.com",
+    "category": "company",
+    "status": "active",
+    "date_added": "2026-02-09",
+    "last_checked_at": "2026-02-09"
+  },
+  {
     "name": "Tes",
     "url": "https://engineering.tes.com",
     "category": "company",

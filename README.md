@@ -1,13 +1,13 @@
 # Engineering Blogs
-> A curated list of 515 engineering blogs.  
-> *Last updated: 2026-02-09*
+> A curated list of 516 engineering blogs.  
+> *Last updated: 9 Feb 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
 ## Categories
 | Category | Count |
 | :--- | :--- |
-| [Companies](#company) | 285 |
+| [Companies](#company) | 286 |
 | [Individuals](#individual) | 214 |
 | [Products/Technologies](#product) | 16 |
 
@@ -256,6 +256,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Target](https://target.github.io/)
 * [Teamwork](https://engineroom.teamwork.com/)
 * [Tes](https://engineering.tes.com)
+* [Test which should be deleted](https://asdfasdfsadf.substack.com)
 * [theScore](http://techblog.thescore.com/)
 * [Thoughtbot](https://robots.thoughtbot.com/)
 * [Thumbtack](https://www.thumbtack.com/engineering/)

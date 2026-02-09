@@ -41,7 +41,7 @@ def generate_readme():
 
     # Calculate Stats
     total_blogs = len(active_blogs)
-    today = datetime.date.today().isoformat()
+    today = datetime.date.today().strftime("%-d %b %Y")
     
     # Generate Markdown Content
     lines = []
