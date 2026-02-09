@@ -21,6 +21,7 @@ TRUSTED_DOMAINS = {
     'openai.com',
     'x.com',
     'uber.com',
+    'twitter.com',
     'medium.com' # Often blocks
 }
 
@@ -102,12 +103,13 @@ def validate():
                 blog['status'] = 'invalid'
                 blog['last_checked_at'] = today.isoformat()
                 updated_count += 1
-            elif response and response.status_code in [403, 429, 999] and (domain in TRUSTED_DOMAINS or any(d in domain for d in TRUSTED_DOMAINS)):
+            elif (response and response.status_code in [403, 429, 999]) or response is None:
                 # Special handling for known protected domains
-                print(f" Protected ({response.status_code}) - Marking Active (Trusted Domain)")
-                blog['status'] = 'active'
-                blog['last_checked_at'] = today.isoformat()
-                updated_count += 1
+                if domain in TRUSTED_DOMAINS or any(d in domain for d in TRUSTED_DOMAINS):
+                    print(f" Protected ({'Error' if response is None else response.status_code}) - Marking Active (Trusted Domain)")
+                    blog['status'] = 'active'
+                    blog['last_checked_at'] = today.isoformat()
+                    updated_count += 1
             else:
                 status_code = response.status_code if response else "Error"
                 print(f" Warning ({status_code}) - Keeping Status")

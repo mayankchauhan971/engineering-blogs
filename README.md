@@ -1,5 +1,5 @@
 # Engineering Blogs
-> A curated list of 510 engineering blogs.  
+> A curated list of 515 engineering blogs.  
 > *Last updated: 2026-02-09*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
@@ -7,7 +7,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 ## Categories
 | Category | Count |
 | :--- | :--- |
-| [Companies](#company) | 280 |
+| [Companies](#company) | 285 |
 | [Individuals](#individual) | 214 |
 | [Products/Technologies](#product) | 16 |
 
@@ -74,6 +74,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [DoorDash](https://doordash.engineering/)
 * [Drivy](https://drivy.engineering/)
 * [Dropbox](https://dropbox.tech)
+* [Duolingo](https://blog.duolingo.com/hub/engineering/)
 * [Ebay](https://www.ebayinc.com/stories/blogs/tech/)
 * [Ebayinc](https://tech.ebayinc.com/rss)
 * [eFounders](https://medium.com/unexpected-token)
@@ -116,10 +117,12 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Hanamimastery](https://hanamimastery.com)
 * [Haptik](https://haptik.ai/tech/)
 * [Harry's](http://engineering.harrys.com/)
+* [HashiCorp](https://www.hashicorp.com/blog)
 * [Hashnode](https://engineering.hashnode.com/)
 * [Hashrocket](https://hashrocket.com/blog)
 * [Helpshift](https://medium.com/helpshift-engineering/)
 * [Heroku](https://blog.heroku.com/engineering)
+* [High Growth Engineer](https://careercutler.substack.com)
 * [HomeAway](https://tech.homeaway.com/)
 * [Honeybadger](http://blog.honeybadger.io/)
 * [Hootsuite](http://code.hootsuite.com/)
@@ -182,6 +185,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Okta](https://developer.okta.com)
 * [OLX](https://tech.olx.com/)
 * [OmniTI](https://omniti.com/seeds/stop-collaborate-and-listen-notify)
+* [OpenAI](https://openai.com/news/)
 * [OpenDNS](https://engineering.opendns.com/)
 * [Oursky](https://code.oursky.com/)
 * [Palantir](https://blog.palantir.com/)
@@ -245,8 +249,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Stitch Fix](http://multithreaded.stitchfix.com/blog/)
 * [Strava](https://medium.com/strava-engineering/)
 * [Stridenyc](https://www.stridenyc.com/blog)
-* [Substack](https://careercutler.substack.com)
-* [Substack](https://devweekly.substack.com)
+* [Stripe](https://stripe.com/blog/engineering)
 * [SurveyMonkey](https://engineering.surveymonkey.com/)
 * [Swiggy](https://bytes.swiggy.com/)
 * [Takipi](http://blog.takipi.com/)
@@ -266,6 +269,8 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Trivago](http://tech.trivago.com/)
 * [TrueCar](https://www.drivenbycode.com/)
 * [Tumblr](https://engineering.tumblr.com/)
+* [Twilio](https://www.twilio.com/blog/)
+* [Twitter/X](https://blog.x.com/engineering/en_us)
 * [Uber](https://www.uber.com/blog/engineering/)
 * [Universe](https://engineering.universe.com)
 * [UpGrad](https://engineering.upgrad.com)
@@ -535,9 +540,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Swift](https://developer.apple.com/swift/blog/)
 
 [⬆ Back to Top](#categories)
-
-## Archive
-View 6 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
 
 ## Contributing
 Found a broken link? Want to add a blog?

@@ -3147,7 +3147,7 @@
     "name": "Stripe",
     "url": "https://stripe.com/blog/engineering",
     "category": "company",
-    "status": "inactive",
+    "status": "active",
     "date_added": "2026-02-09",
     "last_checked_at": "2026-02-09"
   },
@@ -3339,7 +3339,7 @@
     "name": "Twilio",
     "url": "https://www.twilio.com/blog/",
     "category": "company",
-    "status": "inactive",
+    "status": "active",
     "date_added": "2026-02-09",
     "last_checked_at": "2026-02-09"
   },
@@ -3691,7 +3691,7 @@
     "name": "Duolingo",
     "url": "https://blog.duolingo.com/hub/engineering/",
     "category": "company",
-    "status": "inactive",
+    "status": "active",
     "date_added": "2026-02-09",
     "last_checked_at": "2026-02-09"
   },
@@ -3763,7 +3763,7 @@
     "name": "HashiCorp",
     "url": "https://www.hashicorp.com/blog",
     "category": "company",
-    "status": "inactive",
+    "status": "active",
     "date_added": "2026-02-09",
     "last_checked_at": "2026-02-09"
   },
@@ -3899,7 +3899,7 @@
     "name": "OpenAI",
     "url": "https://openai.com/news/",
     "category": "company",
-    "status": "inactive",
+    "status": "active",
     "date_added": "2026-02-09",
     "last_checked_at": "2026-02-09"
   },
@@ -4016,16 +4016,8 @@
     "last_checked_at": "2026-02-09"
   },
   {
-    "name": "Substack",
+    "name": "High Growth Engineer",
     "url": "https://careercutler.substack.com",
-    "category": "company",
-    "status": "active",
-    "date_added": "2026-02-09",
-    "last_checked_at": "2026-02-09"
-  },
-  {
-    "name": "Substack",
-    "url": "https://devweekly.substack.com",
     "category": "company",
     "status": "active",
     "date_added": "2026-02-09",
@@ -4067,7 +4059,7 @@
     "name": "Twitter/X",
     "url": "https://blog.x.com/engineering/en_us",
     "category": "company",
-    "status": "inactive",
+    "status": "active",
     "date_added": "2026-02-09",
     "last_checked_at": "2026-02-09"
   },
