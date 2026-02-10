@@ -25,6 +25,7 @@ def generate_readme():
 
     # Group by Category
     categories = {
+        'aggregator': [],
         'company': [],
         'individual': [],
         'product': []
@@ -63,6 +64,7 @@ def generate_readme():
         if cat == 'individual': display_name = 'Individuals'
         if cat == 'company': display_name = 'Companies'
         if cat == 'product': display_name = 'Products/Technologies'
+        if cat == 'aggregator': display_name = 'Engineering Blog Aggregators'
         
         lines.append(f"| [{display_name}](#{cat}) | {len(items)} |")
     lines.append("")
@@ -78,6 +80,7 @@ def generate_readme():
         if cat == 'individual': display_name = 'Individuals'
         if cat == 'company': display_name = 'Companies'
         if cat == 'product': display_name = 'Products/Technologies'
+        if cat == 'aggregator': display_name = 'Engineering Blog Aggregators'
         
         lines.append(f"## <a name='{cat}'></a>{display_name}")
         lines.append("")
