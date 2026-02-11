@@ -1,6 +1,6 @@
 # Engineering Blogs
 > A curated list of 517 engineering blogs.  
-> *Last updated: 10 Feb 2026*
+> *Last updated: 11 Feb 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
@@ -14,7 +14,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 
 ## <a name='aggregator'></a>Engineering Blog Aggregators
 
-* [TechReads](https://techreads.dev/)
+* [TechReads - Engineering Blog Aggregator](https://techreads.dev/)
 
 [⬆ Back to Top](#categories)
 
