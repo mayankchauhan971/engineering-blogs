@@ -1,6 +1,6 @@
 # Engineering Blogs
-> A curated list of 517 engineering blogs.  
-> *Last updated: 11 Feb 2026*
+> A curated list of 505 engineering blogs.  
+> *Last updated: 1 Mar 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
@@ -8,8 +8,8 @@ This repository is automatically maintained by GitHub Actions. It validates link
 | Category | Count |
 | :--- | :--- |
 | [Engineering Blog Aggregators](#aggregator) | 1 |
-| [Companies](#company) | 286 |
-| [Individuals](#individual) | 214 |
+| [Companies](#company) | 276 |
+| [Individuals](#individual) | 212 |
 | [Products/Technologies](#product) | 16 |
 
 ## <a name='aggregator'></a>Engineering Blog Aggregators
@@ -63,7 +63,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Codeship](https://blog.codeship.com/)
 * [Commercetools](https://techblog.commercetools.com/)
 * [Confluent](https://www.confluent.io/blog)
-* [Credit Karma](https://engineering.creditkarma.com/)
 * [Criteo](https://medium.com/criteo-labs)
 * [Crowdfire](https://crowdfire.engineering/)
 * [CSC - IT Center For Science - Cloud Team](https://cloud.blog.csc.fi/)
@@ -105,7 +104,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Fynd](http://gofynd.io/blog)
 * [Galois](https://galois.com/blog/)
 * [GameChanger](http://tech.gc.com/)
-* [GIPHY](https://engineering.giphy.com/)
 * [GitHub](https://github.blog/category/engineering/)
 * [GitHub Old](https://github.com/blog/category/engineering)
 * [GoCardless](https://gocardless.com/blog)
@@ -168,7 +166,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Mailchimp](https://devs.mailchimp.com/blog)
 * [Mandrill](http://blog.mandrill.com)
 * [MapTiler](https://www.maptiler.com/blog/)
-* [Medallia](http://engineering.medallia.com/blog/)
 * [Medium](https://medium.com/medium-eng)
 * [Memsql](https://www.memsql.com/blog)
 * [Mesosphere](https://mesosphere.com/blog/)
@@ -194,7 +191,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [OmniTI](https://omniti.com/seeds/stop-collaborate-and-listen-notify)
 * [OpenAI](https://openai.com/news/)
 * [OpenDNS](https://engineering.opendns.com/)
-* [Oursky](https://code.oursky.com/)
 * [Palantir](https://blog.palantir.com/)
 * [Panorama Education](http://engineering.panoramaed.com/)
 * [Paperless Post](https://www.paperlesspost.com/blog/teams/tech/)
@@ -209,7 +205,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Primevideotech](https://www.primevideotech.com)
 * [Prolific Interactive](http://blog.prolificinteractive.com/category/development/)
 * [PubNub:](https://www.pubnub.com/blog/)
-* [PullReview](http://blog.8thcolor.com/)
 * [Quora](https://engineering.quora.com/)
 * [REA Group](https://www.rea-group.com/category/tech/)
 * [RedBubble](https://medium.com)
@@ -236,7 +231,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Shopify](https://shopify.engineering/)
 * [Simple](https://www.simple.com/engineering)
 * [SitePoint](https://sitepoint.com)
-* [Sky Betting & Gaming](http://engineering.skybettingandgaming.com/)
 * [Skyscanner](http://codevoyagers.com/)
 * [Slack](https://slack.engineering/)
 * [SlideShare](https://engineering.linkedin.com/blog/topic/slideshare)
@@ -245,7 +239,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Snyk](https://snyk.io)
 * [Soshace](https://blog.soshace.com/en/)
 * [Soundcloud](https://developers.soundcloud.com/blog/)
-* [SourceClear](https://blog.sourceclear.com/)
 * [Speedledger](http://engineering.speedledger.com/)
 * [Spotify](https://engineering.atspotify.com/)
 * [Sqreen](https://blog.sqreen.io/)
@@ -263,7 +256,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Target](https://target.github.io/)
 * [Teamwork](https://engineroom.teamwork.com/)
 * [Tes](https://engineering.tes.com)
-* [Test which should be deleted](https://asdfaaskdfnaskfdjsdfsadf.com)
 * [theScore](http://techblog.thescore.com/)
 * [Thoughtbot](https://robots.thoughtbot.com/)
 * [Thumbtack](https://www.thumbtack.com/engineering/)
@@ -283,8 +275,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Universe](https://engineering.universe.com)
 * [UpGrad](https://engineering.upgrad.com)
 * [Useanvil](https://www.useanvil.com/blog/engineering)
-* [Vena Solutions](https://engineering.vena.io/)
-* [VersionEye](https://blog.versioneye.com/)
 * [Viget](https://www.viget.com/articles/category/code#articles)
 * [Vinted](http://engineering.vinted.com/)
 * [Vladimirj](https://vladimirj.dev/blog)
@@ -329,7 +319,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Bartlomiej Filipek](http://www.bfilipek.com/)
 * [Bill the Lizard](http://www.billthelizard.com/)
 * [Bjørn Johansen](https://bjornjohansen.no/)
-* [Blake Erickson](https://blog.blakeerickson.com/)
 * [Blundell's Android Tutorials](http://blog.blundellapps.co.uk)
 * [Bohops](https://bohops.com/)
 * [Brendan Eich](https://brendaneich.com/)
@@ -358,7 +347,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Dragan Djuric](http://dragan.rocks)
 * [Dragan Gaic](http://www.gajotres.net/)
 * [Drew DeVault](https://drewdevault.com/)
-* [Edan Kwan](http://blog.edankwan.com/)
 * [Eddie Smith](http://www.practicallyefficient.com/)
 * [Edgar Aroutiounian](https://hyegar.com/)
 * [Edward Faulkner](https://eaf4.com/)
@@ -548,6 +536,9 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Swift](https://developer.apple.com/swift/blog/)
 
 [⬆ Back to Top](#categories)
+
+## Archive
+View 12 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
 
 ## Contributing
 Found a broken link? Want to add a blog?
