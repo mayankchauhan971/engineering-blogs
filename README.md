@@ -1,6 +1,6 @@
 # Engineering Blogs
-> A curated list of 505 engineering blogs.  
-> *Last updated: 1 Mar 2026*
+> A curated list of 504 engineering blogs.  
+> *Last updated: 27 Mar 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
@@ -8,7 +8,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 | Category | Count |
 | :--- | :--- |
 | [Engineering Blog Aggregators](#aggregator) | 1 |
-| [Companies](#company) | 276 |
+| [Companies](#company) | 275 |
 | [Individuals](#individual) | 212 |
 | [Products/Technologies](#product) | 16 |
 
@@ -64,7 +64,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Commercetools](https://techblog.commercetools.com/)
 * [Confluent](https://www.confluent.io/blog)
 * [Criteo](https://medium.com/criteo-labs)
-* [Crowdfire](https://crowdfire.engineering/)
 * [CSC - IT Center For Science - Cloud Team](https://cloud.blog.csc.fi/)
 * [Curalate](http://engineering.curalate.com/)
 * [Databricks](https://www.databricks.com/blog)
@@ -538,7 +537,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 [⬆ Back to Top](#categories)
 
 ## Archive
-View 12 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
+View 13 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
 
 ## Contributing
 Found a broken link? Want to add a blog?

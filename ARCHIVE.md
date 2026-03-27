@@ -1,8 +1,9 @@
 # Archived Engineering Blogs
-> These blogs were detected as invalid or inactive. Last updated: 1 Mar 2026
+> These blogs were detected as invalid or inactive. Last updated: 27 Mar 2026
 
 * Blake Erickson - https://blog.blakeerickson.com/ (Status: invalid)
 * Credit Karma - https://engineering.creditkarma.com/ (Status: invalid)
+* Crowdfire - https://crowdfire.engineering/ (Status: invalid)
 * Edan Kwan - http://blog.edankwan.com/ (Status: invalid)
 * GIPHY - https://engineering.giphy.com/ (Status: invalid)
 * Medallia - http://engineering.medallia.com/blog/ (Status: invalid)
