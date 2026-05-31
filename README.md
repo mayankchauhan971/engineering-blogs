@@ -1,6 +1,6 @@
 # Engineering Blogs
-> A curated list of 504 engineering blogs.  
-> *Last updated: 27 Mar 2026*
+> A curated list of 503 engineering blogs.  
+> *Last updated: 31 May 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
@@ -9,7 +9,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 | :--- | :--- |
 | [Engineering Blog Aggregators](#aggregator) | 1 |
 | [Companies](#company) | 275 |
-| [Individuals](#individual) | 212 |
+| [Individuals](#individual) | 211 |
 | [Products/Technologies](#product) | 16 |
 
 ## <a name='aggregator'></a>Engineering Blog Aggregators
@@ -374,7 +374,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Hypriot](http://blog.hypriot.com/)
 * [Ian Hummel](https://themodernlife.github.io/)
 * [Idontgetoutmuch's Weblog](https://idontgetoutmuch.wordpress.com/)
-* [Ievgen Kuzminov](http://stdout.in/)
 * [Ilija Eftimov](http://ieftimov.com/)
 * [Ilya Grigorik](https://www.igvita.com/)
 * [Itamar Turner-Trauring](https://codewithoutrules.com)
@@ -537,7 +536,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 [⬆ Back to Top](#categories)
 
 ## Archive
-View 13 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
+View 14 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
 
 ## Contributing
 Found a broken link? Want to add a blog?
