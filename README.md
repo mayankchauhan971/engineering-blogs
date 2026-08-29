@@ -1,6 +1,6 @@
 # Engineering Blogs
-> A curated list of 503 engineering blogs.  
-> *Last updated: 31 May 2026*
+> A curated list of 504 engineering blogs.  
+> *Last updated: 29 Aug 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
@@ -8,7 +8,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 | Category | Count |
 | :--- | :--- |
 | [Engineering Blog Aggregators](#aggregator) | 1 |
-| [Companies](#company) | 275 |
+| [Companies](#company) | 276 |
 | [Individuals](#individual) | 211 |
 | [Products/Technologies](#product) | 16 |
 
@@ -75,6 +75,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Discord](https://blog.discordapp.com/)
 * [Docker](https://blog.docker.com/)
 * [Docplanner](https://docplanner.tech)
+* [Docusign](https://www.docusign.com/blog/topics/engineering)
 * [Docutain](https://sdk.docutain.com/blog)
 * [DoorDash](https://doordash.engineering/)
 * [Drivy](https://drivy.engineering/)
