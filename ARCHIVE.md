@@ -1,17 +1,19 @@
 # Archived Engineering Blogs
-> These blogs were detected as invalid or inactive. Last updated: 31 May 2026
+> These blogs were detected as invalid or inactive. Last updated: 10 Oct 2026
 
 * Blake Erickson - https://blog.blakeerickson.com/ (Status: invalid)
 * Credit Karma - https://engineering.creditkarma.com/ (Status: invalid)
 * Crowdfire - https://crowdfire.engineering/ (Status: invalid)
 * Edan Kwan - http://blog.edankwan.com/ (Status: invalid)
 * GIPHY - https://engineering.giphy.com/ (Status: invalid)
+* HomeAway - https://tech.homeaway.com/ (Status: invalid)
 * Ievgen Kuzminov - http://stdout.in/ (Status: invalid)
 * Medallia - http://engineering.medallia.com/blog/ (Status: invalid)
 * Oursky - https://code.oursky.com/ (Status: invalid)
 * PullReview - http://blog.8thcolor.com/ (Status: invalid)
 * Sky Betting & Gaming - http://engineering.skybettingandgaming.com/ (Status: invalid)
 * SourceClear - https://blog.sourceclear.com/ (Status: invalid)
+* Universe - https://engineering.universe.com (Status: invalid)
 * Vena Solutions - https://engineering.vena.io/ (Status: invalid)
 * VersionEye - https://blog.versioneye.com/ (Status: invalid)
 * Test which should be deleted - https://asdfaaskdfnaskfdjsdfsadf.com (Status: invalid)
