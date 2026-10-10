@@ -1,6 +1,6 @@
 # Engineering Blogs
-> A curated list of 503 engineering blogs.  
-> *Last updated: 31 May 2026*
+> A curated list of 501 engineering blogs.  
+> *Last updated: 10 Oct 2026*
 
 This repository is automatically maintained by GitHub Actions. It validates links weekly and harvests new blogs from community submissions to ensure it never goes stale.
 
@@ -8,7 +8,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 | Category | Count |
 | :--- | :--- |
 | [Engineering Blog Aggregators](#aggregator) | 1 |
-| [Companies](#company) | 275 |
+| [Companies](#company) | 273 |
 | [Individuals](#individual) | 211 |
 | [Products/Technologies](#product) | 16 |
 
@@ -127,7 +127,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Helpshift](https://medium.com/helpshift-engineering/)
 * [Heroku](https://blog.heroku.com/engineering)
 * [High Growth Engineer](https://careercutler.substack.com)
-* [HomeAway](https://tech.homeaway.com/)
 * [Honeybadger](http://blog.honeybadger.io/)
 * [Hootsuite](http://code.hootsuite.com/)
 * [Hostinger](https://www.hostinger.com/blog/engineering/)
@@ -271,7 +270,6 @@ This repository is automatically maintained by GitHub Actions. It validates link
 * [Twilio](https://www.twilio.com/blog/)
 * [Twitter/X](https://blog.x.com/engineering/en_us)
 * [Uber](https://www.uber.com/blog/engineering/)
-* [Universe](https://engineering.universe.com)
 * [UpGrad](https://engineering.upgrad.com)
 * [Useanvil](https://www.useanvil.com/blog/engineering)
 * [Viget](https://www.viget.com/articles/category/code#articles)
@@ -536,7 +534,7 @@ This repository is automatically maintained by GitHub Actions. It validates link
 [⬆ Back to Top](#categories)
 
 ## Archive
-View 14 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
+View 16 archived/inactive blogs in [ARCHIVE.md](ARCHIVE.md).
 
 ## Contributing
 Found a broken link? Want to add a blog?
